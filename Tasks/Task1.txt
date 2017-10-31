@@ -1,0 +1,23 @@
+### READ THIS!!!!!!!!!!!!!
+## Dependency Management
+# For every project (major and minor) there are usually a set functionalities
+# that will be too tedious to implement. This is the reason why libraries are 
+# used. Libraries are basically collections of code which help doing a particular
+# easier e.g. connecting to a database, connecting to hardware devices etc.
+# The most basic way of adding libraries to a java project, is by adding the
+# respect .jar file of the library file into libs the folder. This workes for
+# small projects, however, when moving to larger projects. It becomes a bother!!
+# This is the reason why dependency management tools were written. You may be 
+# familiar with such tools from other languages such pip for python, npm for
+# nodejs etc. In Java, there are two main dependency management tools: gradle 
+# and maven. Depending on the presence of certain files, one can tell which 
+# tool is being used. For your first task, you are to:
+1. Identify which dependency management tool is being used.
+2. Add the following to dependencies to the dependency file [Make sure your put
+    them in the right place.]
+    - hibernate-core [latest]
+    - mysql-connector-java [latest]
+
+
+NOTE: Check the dependencies folder in project view to see if you've added them
+correctly
