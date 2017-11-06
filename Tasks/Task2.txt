@@ -1,0 +1,39 @@
+### READ THIS
+# In today's task we'll be talking about forks and pull requests.
+# We started off by cloning this repo to our local devices. Forking a repo is just like cloning. The only difference is that
+# the project is not being copied locally but to another online repo. Kind of like transferring files from one server to another.
+# You first task is to:
+1. Create a fork of this repo.
+2. Send screenshots to the group if it's successful.
+
+### READ THIS ALSO !!!
+# You are familiar with git pull, right? Well there's an opposite of a 'git pull' which is a 
+# 'git push' (obvious, wasn't it? :)) A git push basically involves uploading new changes to a remote. There a few rules to 
+# remember though
+# 1. You cannot push changes if there are changes to pulled.
+# 2. To push you must have updated files from the remote repo otherwise nothing will happen.
+# Before you push:
+# 1. Make sure the files you want added are already tracked with git
+#.2. Make sure you've commited your latest changes.
+# For your task:
+1. Do a git push following the above mentioned checklist.
+
+### AND THIS !!!
+# If you actually did do it right. You should get a 'permission denied' or 'operation not permitted' kind of message. Don't panic,
+# it's supposed to happen. Try to imagine an online repo like a personal car. Not just anyone can drive it. Repos have permissions
+# which cater of access control. Without such permissions, nothing would be stopping you from pushing changes to Facebook's repo or
+# Google's repos. The are two ways to handle this. Either be given permission (Being made a collaborator to a repo) or pushing to 
+# your own repo and making a pull request. A pull request can be likened to 'asking permission'. Basically you are telling the 
+# owner of the repo that you need permission to make changes. This basically how people contribute to projects from different
+# geographical areas.
+# For your third task:
+1. Go to your repo from task one. (NOT THE ONE WHERE YOU PULLED FROM)
+2. Get the url for the repo
+3. Add it to your git remotes in Netbeans (call it 'mine')
+4. Try to push (Remember to select the right repo)
+5. Send a screenshot of your online repo with the changes.
+
+
+NOTE:
+I'll only be accepting the first pull request to merge into my repo. The top three people with the most pull requests will
+get awards! :)
