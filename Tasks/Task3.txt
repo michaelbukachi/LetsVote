@@ -1,0 +1,17 @@
+### READ THIS !!!
+## I hope you are enjoying yourself, learning new tools and getting a different perspective on development
+## This task will be different from the previous ones. In light of the recent events at school, we'll be 
+## taking a slight detour. We'll be building a twitter bot  :)
+1. First of all, start off by cloning this repo https://github.com/michaelbukachi/DU_TwitterBot.git using this netbeans.
+2. Next you'll have to create a twitter app. Go to https://apps.twitter.com to create one. You can follow this link for
+  a detailed guide.
+3. Setup in you credentials in Bot.java file (consumer_key, consumer_token, access_key, access_token)
+4. Implement the functionality for retweeting tweets with the hash tags:
+      - daystaruniversityrot
+      - daystarlivesmatter
+      - DaystarLivesMatter
+5. Remember you should ignore tweets you have already retweeted.
+6. Take a screenshot and post it to the group when done.
+
+## All the best
+## Hint: Read on TwitterStream class and how to set it up
